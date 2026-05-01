@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي خذني إليك
+> كل عمري بين إيديك
+> شوقي ليك كل يوم يزيد
+> أنت وحدك اللي أريد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
