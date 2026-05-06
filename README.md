@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghalatna-men-el-awel/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Ghalatna Men El Awel](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Ghalatna Men El Awel](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
