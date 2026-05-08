@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghalatna Men El Awel
+
+This log tracks the cryptographic history and versioning for the song **Ghalatna Men El Awel** (ghalatna-men-el-awel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:12:20.139477 | `v1` | `b35451a3b53b1849a59f6e07fdca1d9ecb9bc26b4ae6763f4bc36eae7e89dedb` | `2d26260ca5530415327257e673d2e3126b01d67b27f921e6452d464a6f69677c` | `2026-05-09_ghalatna-men-el-awel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
